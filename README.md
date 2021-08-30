@@ -5,4 +5,4 @@ let's talk about technical things here.. Re-Compile? You can use find ModelConve
 
 Download? Check the release tags 
 
-
+Every release is built on FSX so it will be compatible all the way up to P34v4...maybe V5 also, need testers 'bout that
