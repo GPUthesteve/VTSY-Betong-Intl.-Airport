@@ -46,10 +46,10 @@
             <Property Name="Guid" Value="{3765C5C1-70C0-4999-8353-F670668454E5}" />
             <Property Name="Title" Value="On-Board (ChasePlane)" />
             <Property Name="PanelOnlyView" Value="False" />
-            <Property Name="Zoom" Value="0.4000110924243927002" />
-            <Property Name="Translation" Value="0, 0, 0" />
+            <Property Name="Zoom" Value="0.62264149861115203333" />
+            <Property Name="Translation" Value="-3.2582920539425686002e-06, -1.5401423192340502055e-11, -6.097004074945289176e-07" />
             <Property Name="SensorMode" Value="0" />
-            <Property Name="Rotation" Value="0, 0, 0" />
+            <Property Name="Rotation" Value="-0.00011970000196015462279, -5.1600000006146728992e-05, 0.00080009998055174946785" />
             <Property Name="FieldOfView" Value="0, 0" />
             <Property Name="PostProcess.0" Value="HDRPostProcess" />
             <Property Name="PostProcess.1" Value="FXAAResolve" />
@@ -135,6 +135,8 @@
             <Property Name="ChaseDistance" Value="60" />
             <Property Name="ChaseAltitude" Value="0.9144" />
             <Property Name="FieldOfView" Value="0, 0" />
+            <Property Name="PostProcess.0" Value="HDRPostProcess" />
+            <Property Name="PostProcess.1" Value="FXAAResolve" />
         </Section>
         <Section Name="Camera.1.10">
             <Property Name="Guid" Value="{BCA3FDD1-FB83-4BBA-8407-4922A7F0D00D}" />
@@ -147,6 +149,8 @@
             <Property Name="ChaseDistance" Value="60" />
             <Property Name="ChaseAltitude" Value="4.15054" />
             <Property Name="FieldOfView" Value="0, 0" />
+            <Property Name="PostProcess.0" Value="HDRPostProcess" />
+            <Property Name="PostProcess.1" Value="FXAAResolve" />
         </Section>
         <Section Name="Camera.1.11">
             <Property Name="Guid" Value="{6B79DD49-9B4A-439D-BF40-ACBF157B0BA0}" />
@@ -157,6 +161,8 @@
             <Property Name="SensorMode" Value="0" />
             <Property Name="Rotation" Value="0, 0, 0" />
             <Property Name="FieldOfView" Value="0, 0" />
+            <Property Name="PostProcess.0" Value="HDRPostProcess" />
+            <Property Name="PostProcess.1" Value="FXAAResolve" />
         </Section>
         <Section Name="Camera.1.12">
             <Property Name="Guid" Value="{A2849229-938A-448F-8AC6-01EF2291C171}" />
@@ -167,6 +173,8 @@
             <Property Name="SensorMode" Value="0" />
             <Property Name="Rotation" Value="0, 0, 0" />
             <Property Name="FieldOfView" Value="0, 0" />
+            <Property Name="PostProcess.0" Value="HDRPostProcess" />
+            <Property Name="PostProcess.1" Value="FXAAResolve" />
         </Section>
         <Section Name="Camera.1.13">
             <Property Name="Guid" Value="{60BC0819-BD04-4AF6-8954-8FC8AA3545FF}" />
@@ -177,6 +185,8 @@
             <Property Name="SensorMode" Value="0" />
             <Property Name="Rotation" Value="0.48476925492286682129, 34.018939971923828125, 0" />
             <Property Name="FieldOfView" Value="0, 0" />
+            <Property Name="PostProcess.0" Value="HDRPostProcess" />
+            <Property Name="PostProcess.1" Value="FXAAResolve" />
         </Section>
         <Section Name="Camera.1.14">
             <Property Name="Guid" Value="{AA8C80C0-9EE2-4284-A1C2-B20CD3F5F3D9}" />
@@ -335,7 +345,7 @@
             <Property Name="WaypointNext" Value="0" />
             <Property Name="AltCleared" Value="-1" />
             <Property Name="HdgAssigned" Value="-1" />
-            <Property Name="SquawkAssigned" Value="-134802944" />
+            <Property Name="SquawkAssigned" Value="777851392" />
             <Property Name="LandingSequence" Value="LANDING_NONE" />
             <Property Name="DepartureRequest" Value="DEPARTURE_VFR_REQUEST_NONE" />
             <Property Name="ParkingRequest" Value="PARKING_NAME_NONE" />
@@ -361,7 +371,7 @@
             <Property Name="AircraftSignature" Value="1,0" />
         </Section>
         <Section Name="ATC_AircraftManager">
-            <Property Name="NumberofAircraft" Value="0" />
+            <Property Name="NumberofAircraft" Value="1" />
         </Section>
         <Section Name="ATC_MessageSystem">
             <Property Name="FrequencyNodes" Value="0" />
@@ -369,10 +379,10 @@
         <Section Name="DateTimeSeason">
             <Property Name="Season" Value="Summer" />
             <Property Name="Year" Value="2021" />
-            <Property Name="Day" Value="255" />
+            <Property Name="Day" Value="256" />
             <Property Name="Hours" Value="18" />
-            <Property Name="Minutes" Value="15" />
-            <Property Name="Seconds" Value="19" />
+            <Property Name="Minutes" Value="22" />
+            <Property Name="Seconds" Value="47" />
         </Section>
         <Section Name="Panel.1">
             <Property Name="ScreenUniCoords" Value="0, 0, 0, 0" />
@@ -657,7 +667,7 @@
             <Property Name="Latitude" Value="N5&#xB0; 47&apos; 13.96&quot;" />
             <Property Name="Longitude" Value="E101&#xB0; 8&apos; 50.97&quot;" />
             <Property Name="Altitude" Value="+000744.20" />
-            <Property Name="Pitch" Value="-0" />
+            <Property Name="Pitch" Value="0" />
             <Property Name="Bank" Value="0" />
             <Property Name="Heading" Value="161.71128834597766399" />
             <Property Name="PVelBodyAxis" Value="0" />
@@ -716,8 +726,8 @@
         </Section>
         <Section Name="Engine Parameters.1.0">
             <Property Name="ThrottleLeverPct" Value="0" />
-            <Property Name="PropellerLeverPct" Value="0.99908447265625" />
-            <Property Name="MixtureLeverPct" Value="0.99908447265625" />
+            <Property Name="PropellerLeverPct" Value="0.9989013671875" />
+            <Property Name="MixtureLeverPct" Value="0.9989013671875" />
             <Property Name="Pct Engine RPM" Value="0.62007613753990842298" />
             <Property Name="LeftMagneto" Value="True" />
             <Property Name="RightMagneto" Value="True" />
@@ -732,8 +742,8 @@
         </Section>
         <Section Name="Engine Parameters.2.0">
             <Property Name="ThrottleLeverPct" Value="0" />
-            <Property Name="PropellerLeverPct" Value="0.99908447265625" />
-            <Property Name="MixtureLeverPct" Value="0.99908447265625" />
+            <Property Name="PropellerLeverPct" Value="0.9989013671875" />
+            <Property Name="MixtureLeverPct" Value="0.9989013671875" />
             <Property Name="Pct Engine RPM" Value="0.62007613753990842298" />
             <Property Name="LeftMagneto" Value="False" />
             <Property Name="RightMagneto" Value="False" />
@@ -861,9 +871,9 @@
             <Property Name="LeftFlap" Value="000.00" />
             <Property Name="RightFlap" Value="000.00" />
             <Property Name="GearsHandle" Value="000.01" />
-            <Property Name="Gear1" Value="099.99" />
-            <Property Name="Gear2" Value="099.99" />
-            <Property Name="Gear3" Value="099.99" />
+            <Property Name="Gear1" Value="099.96" />
+            <Property Name="Gear2" Value="099.96" />
+            <Property Name="Gear3" Value="099.96" />
             <Property Name="YokeY" Value="050.00" />
             <Property Name="YokeX" Value="050.00" />
             <Property Name="Rudder" Value="050.00" />
@@ -896,7 +906,7 @@
             <Property Name="Latitude" Value="N5&#xB0; 47&apos; 13.96&quot;" />
             <Property Name="Longitude" Value="E101&#xB0; 8&apos; 50.97&quot;" />
             <Property Name="Altitude" Value="+000744.20" />
-            <Property Name="Pitch" Value="-0" />
+            <Property Name="Pitch" Value="0" />
             <Property Name="Bank" Value="0" />
             <Property Name="Heading" Value="-167.82220705412328243" />
             <Property Name="PVelBodyAxis" Value="0" />
@@ -904,7 +914,7 @@
             <Property Name="HVelBodyAxis" Value="0" />
             <Property Name="XVelBodyAxis" Value="0" />
             <Property Name="YVelBodyAxis" Value="0" />
-            <Property Name="ZVelBodyAxis" Value="-0" />
+            <Property Name="ZVelBodyAxis" Value="0" />
             <Property Name="SimOnGround" Value="True" />
             <Property Name="OnPlatformHeight" Value="-9999999999" />
             <Property Name="AssociationID" Value="0" />
