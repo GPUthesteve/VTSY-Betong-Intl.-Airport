@@ -380,8 +380,8 @@
             <Property Name="Season" Value="Summer" />
             <Property Name="Year" Value="2021" />
             <Property Name="Day" Value="256" />
-            <Property Name="Hours" Value="18" />
-            <Property Name="Minutes" Value="22" />
+            <Property Name="Hours" Value="14" />
+            <Property Name="Minutes" Value="10" />
             <Property Name="Seconds" Value="47" />
         </Section>
         <Section Name="Panel.1">
@@ -726,8 +726,8 @@
         </Section>
         <Section Name="Engine Parameters.1.0">
             <Property Name="ThrottleLeverPct" Value="0" />
-            <Property Name="PropellerLeverPct" Value="0.9989013671875" />
-            <Property Name="MixtureLeverPct" Value="0.9989013671875" />
+            <Property Name="PropellerLeverPct" Value="0.99884033203125" />
+            <Property Name="MixtureLeverPct" Value="0.99884033203125" />
             <Property Name="Pct Engine RPM" Value="0.62007613753990842298" />
             <Property Name="LeftMagneto" Value="True" />
             <Property Name="RightMagneto" Value="True" />
@@ -742,8 +742,8 @@
         </Section>
         <Section Name="Engine Parameters.2.0">
             <Property Name="ThrottleLeverPct" Value="0" />
-            <Property Name="PropellerLeverPct" Value="0.9989013671875" />
-            <Property Name="MixtureLeverPct" Value="0.9989013671875" />
+            <Property Name="PropellerLeverPct" Value="0.99884033203125" />
+            <Property Name="MixtureLeverPct" Value="0.99884033203125" />
             <Property Name="Pct Engine RPM" Value="0.62007613753990842298" />
             <Property Name="LeftMagneto" Value="False" />
             <Property Name="RightMagneto" Value="False" />
@@ -871,9 +871,9 @@
             <Property Name="LeftFlap" Value="000.00" />
             <Property Name="RightFlap" Value="000.00" />
             <Property Name="GearsHandle" Value="000.01" />
-            <Property Name="Gear1" Value="099.96" />
-            <Property Name="Gear2" Value="099.96" />
-            <Property Name="Gear3" Value="099.96" />
+            <Property Name="Gear1" Value="099.95" />
+            <Property Name="Gear2" Value="099.95" />
+            <Property Name="Gear3" Value="099.95" />
             <Property Name="YokeY" Value="050.00" />
             <Property Name="YokeX" Value="050.00" />
             <Property Name="Rudder" Value="050.00" />
