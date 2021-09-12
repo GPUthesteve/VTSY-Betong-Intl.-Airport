@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="ObjectFile" version="4,5">
+    <Descr>Default Prepar3D scenario, on the runway, at Eglin AFB</Descr>
+    <Title>Prepar3D Default</Title>
+    <WorldBase.Flight>
+        <SimContain.UserOwnship InstanceId="{1CCF6D89-BA36-445F-B5C8-47571ABC0773}">
+            <SpeedKnots>0.004435</SpeedKnots>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SimContain.UserOwnship>
+        <SimContain.UserAvatar InstanceId="{508FDC98-BF36-4C0F-B22D-27045DF1A0CF}">
+        </SimContain.UserAvatar>
+        <SceneryObjects.LibraryObject InstanceId="{82D4E4A4-1D1F-4FD9-8B80-3DE872AE4193}">
+            <Descr>Scenery3</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 7.708814",E101* 8' 50.258322",+000000.30</WorldPosition>
+            <Orientation>0.000000,0.000000,340.285738</Orientation>
+            <Scale>0.504000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{22FF338E-F354-409E-9735-47464DC37CC9}">
+            <Descr>Scenery4</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 8.211815",E101* 8' 51.695271",+000002.72</WorldPosition>
+            <Orientation>0.000000,0.000000,338.285736</Orientation>
+            <Scale>0.547200</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{A9547193-7B13-4259-995B-095CB2C49F18}">
+            <Descr>Scenery5</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 9.266154",E101* 8' 53.897912",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,162.285745</Orientation>
+            <Scale>0.560000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{19031521-B684-461A-B15E-C06857C9E940}">
+            <Descr>Scenery6</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 7.314092",E101* 8' 49.230965",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,334.285731</Orientation>
+            <Scale>0.376200</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{71A21D3D-66D3-4F9E-9F95-CCB9B3060795}">
+            <Descr>Scenery7</Descr>
+            <MDLGuid>{7091D8BC-5B18-4F23-A37B-B66AC12D46DC}</MDLGuid>
+            <WorldPosition>N5* 47' 11.585726",E101* 8' 51.465027",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,163.285740</Orientation>
+            <Scale>1.000000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{AF2D7488-8829-407B-A430-742607831F8C}">
+            <Descr>Scenery8</Descr>
+            <MDLGuid>{7091D8BC-5B18-4F23-A37B-B66AC12D46DC}</MDLGuid>
+            <WorldPosition>N5* 47' 11.132084",E101* 8' 49.898846",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,159.285749</Orientation>
+            <Scale>1.000000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{209FE91E-77F5-4DDE-8D54-34E418010B98}">
+            <Descr>Scenery9</Descr>
+            <MDLGuid>{7091D8BC-5B18-4F23-A37B-B66AC12D46DC}</MDLGuid>
+            <WorldPosition>N5* 47' 10.656512",E101* 8' 48.427103",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,160.285743</Orientation>
+            <Scale>1.000000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{574788B6-D640-48A4-AD19-ABF778B32E68}">
+            <Descr>Scenery10</Descr>
+            <MDLGuid>{7091D8BC-5B18-4F23-A37B-B66AC12D46DC}</MDLGuid>
+            <WorldPosition>N5* 47' 9.935661",E101* 8' 47.074470",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,159.285735</Orientation>
+            <Scale>1.000000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{4D8D7861-E085-4750-A525-7DFA322516D9}">
+            <Descr>Scenery11</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 8.566439",E101* 8' 52.579838",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,325.895004</Orientation>
+            <Scale>0.617400</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{3686A9F2-48CE-4FC7-858D-805DDC4FBE37}">
+            <Descr>Scenery12</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 9.964336",E101* 8' 47.466027",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,338.665836</Orientation>
+            <Scale>0.400000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{A3BCB754-6048-4C4B-A5AC-0E72D5751996}">
+            <Descr>Scenery13</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 10.483371",E101* 8' 48.330509",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,339.665823</Orientation>
+            <Scale>0.480000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{473CFAF3-13E0-4CDD-A59B-EECCE0738AFB}">
+            <Descr>Scenery14</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 6.363670",E101* 8' 47.113183",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,83.665856</Orientation>
+            <Scale>0.450000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{6F466D71-6B74-4359-BAEA-4D1440E7534E}">
+            <Descr>Scenery16</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 6.619129",E101* 8' 48.354276",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,87.665833</Orientation>
+            <Scale>0.440000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{A2842001-A0CD-4F4C-A4D5-6E275E04DC41}">
+            <Descr>Scenery17</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 5.710694",E101* 8' 49.401600",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,303.665829</Orientation>
+            <Scale>0.340000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{C5F8D94A-E45D-45A3-858C-3A5511CF6C3A}">
+            <Descr>Scenery18</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 5.981598",E101* 8' 50.269739",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,326.665829</Orientation>
+            <Scale>0.394744</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{D6C4EA10-4875-454A-81C6-44EC5E9418C4}">
+            <Descr>Scenery19</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 6.313777",E101* 8' 51.221952",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,340.665838</Orientation>
+            <Scale>0.450000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{FD4ABF66-3DD6-4BEA-8791-F3F228B34AF3}">
+            <Descr>Scenery20</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 6.713408",E101* 8' 52.314721",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,338.665836</Orientation>
+            <Scale>0.499200</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{BA20866D-6635-4DB0-979A-4830BB2B3BC5}">
+            <Descr>Scenery21</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 4.768593",E101* 8' 50.758457",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,340.730534</Orientation>
+            <Scale>0.500000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{13E61B89-AF6F-4860-987A-907890C2CC56}">
+            <Descr>Scenery22</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 5.668358",E101* 8' 52.966907",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,337.730523</Orientation>
+            <Scale>0.345800</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{8949E222-D53A-4A60-A05A-528B4B2DEA2B}">
+            <Descr>Scenery23</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 8.708093",E101* 8' 47.968910",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,243.730509</Orientation>
+            <Scale>0.430000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{D8C6BAD4-8C75-4699-AAE5-964BB0A42887}">
+            <Descr>Scenery24</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 8.286894",E101* 8' 49.542878",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,153.730524</Orientation>
+            <Scale>0.420000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{3166EF2A-5F94-4A46-A4C0-C99DB5AD3775}">
+            <Descr>Scenery25</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 9.138971",E101* 8' 52.033329",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,157.730528</Orientation>
+            <Scale>0.369600</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{826D7DA9-E8AB-467E-A7AF-EDEE9381A6B3}">
+            <Descr>Scenery26</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 6.678518",E101* 8' 55.849516",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,338.894920</Orientation>
+            <Scale>0.499500</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{6AB3F974-E5C2-423C-BDBE-340C52F7C09F}">
+            <Descr>Scenery27</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 7.412598",E101* 8' 56.194914",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,210.894921</Orientation>
+            <Scale>0.498000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{641AF0F8-173C-4B09-BAB4-8205E18C2ABD}">
+            <Descr>Scenery28</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 8.280453",E101* 8' 55.186668",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,197.894913</Orientation>
+            <Scale>0.550000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{D359E0AC-E82A-4C8C-8666-5175BC4D871C}">
+            <Descr>Scenery29</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 7.294308",E101* 8' 54.135902",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,340.894923</Orientation>
+            <Scale>0.524718</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{E3D28A92-C95B-47C6-B0AF-EE890EB56D13}">
+            <Descr>Scenery30</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 6.220940",E101* 8' 54.563958",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,337.894926</Orientation>
+            <Scale>0.497860</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{39CF04F3-1EBA-45F9-A937-EDFF29796882}">
+            <Descr>Scenery31</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 9.287058",E101* 8' 45.259383",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,337.102248</Orientation>
+            <Scale>0.420000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{4F7EB88E-EFAA-475C-BEB1-A03B58D5B07F}">
+            <Descr>Scenery32</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 3.962363",E101* 8' 48.276567",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,330.102247</Orientation>
+            <Scale>0.525000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{A6C6FA14-9E81-4AC2-9B12-6F37719234B1}">
+            <Descr>Scenery33</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 4.936037",E101* 8' 48.968657",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,246.662710</Orientation>
+            <Scale>0.337452</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{CFEABD75-23C3-46F8-8D2E-4A3B70EAF3B9}">
+            <Descr>Scenery34</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 5.094930",E101* 8' 49.618365",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,37.662725</Orientation>
+            <Scale>0.280000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{2ACFDD96-C21F-4B22-B858-9C594C08CC75}">
+            <Descr>Scenery35</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 3.099423",E101* 8' 46.473749",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,339.085944</Orientation>
+            <Scale>0.510000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+        <SceneryObjects.LibraryObject InstanceId="{3A44E433-78E2-4158-8D49-518FF97B282B}">
+            <Descr>Scenery36</Descr>
+            <MDLGuid>{1B4576D7-0709-4510-A11A-4B483E2C74B4}</MDLGuid>
+            <WorldPosition>N5* 47' 2.019250",E101* 8' 44.263683",+000000.00</WorldPosition>
+            <Orientation>0.000000,0.000000,16.085942</Orientation>
+            <Scale>0.410000</Scale>
+            <AltitudeIsAGL>True</AltitudeIsAGL>
+        </SceneryObjects.LibraryObject>
+    </WorldBase.Flight>
+    <MissionBuilder.MissionBuilder>
+    </MissionBuilder.MissionBuilder>
+    <WorldBase.AreasOfInterest>
+    </WorldBase.AreasOfInterest>
+    <WorldBase.Waypoints>
+    </WorldBase.Waypoints>
+</SimBase.Document>
