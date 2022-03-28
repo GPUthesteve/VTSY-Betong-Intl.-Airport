@@ -4,7 +4,7 @@ Betong International Airport (Thai : ท่าอากาศยานนาน�
 Credit for Original Building Creator : K. Narudom Busara
 
 Download? Check the release tags 
-วิธีโหลดสนาม : คลิกที่ Release Tags เลยครับ แล้วโหลดไฟล์ zip ที่ไม่ใช่ Source
+วิธีโหลดสนาม : คลิกที่ Release Tags เลยครับ แล้วโหลดไฟล์ zip/exe ที่ไม่ใช่ Source
 ...........But if ur lazy enough...https://github.com/GPUthesteve/VTSY-Betong-Intl.-Airport/releases...
 
 EN 
