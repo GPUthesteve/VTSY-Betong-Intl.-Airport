@@ -37,3 +37,6 @@ TH
 
 
 pls browse release tags since i cant directly upload sth more than 25mb at main page.
+
+Fork? build? just clone this git. (using sth like PortableGit)
+
