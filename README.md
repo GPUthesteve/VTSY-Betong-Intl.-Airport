@@ -39,4 +39,5 @@ TH
 pls browse release tags since i cant directly upload sth more than 25mb at main page.
 
 Fork? build? just clone this git. (using sth like PortableGit)
-
+ส่งผลตอบรับการใช้งานมาได้ที่ / Send your feedback here
+https://github.com/GPUthesteve/VTSY-Betong-Intl.-Airport/issues
