@@ -35,7 +35,7 @@ TH
 และก็...อย่า(พยายาม)หารายได้ สนามแบบนี้จะขายได้เงินอยู่เหรอ?
 และก็....ก่อนทำ อย่างน้อย IB มาบอกก่อนก็ดีนะ Credit มาด้วย
 
-
+ผมอัพไฟล์เต็มของสนามลงหน้าหลักให้ไป Clone ได้ เพราะมันใหญ่ไป (GitHub ให้อัพใส่หน้าหลักได้ไม่เกิน 25MB) ดังนั้น โปรดโหลดที่ Release tags ครับ
 pls browse release tags since i cant directly upload sth more than 25mb at main page.
 
 Fork? build? just clone this git. (using sth like PortableGit)
