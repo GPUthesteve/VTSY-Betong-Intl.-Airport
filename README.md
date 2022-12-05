@@ -1,4 +1,4 @@
-===DOWNLOAD :https://github.com/GPUthesteve/VTSY-Betong-Intl.-Airport/releases/download/V0.1.05R/VTSY_V2.zip===
+===DOWNLOAD, Final RELEASE : https://github.com/GPUthesteve/VTSY-Betong-Intl.-Airport/releases/download/V0.1.05R/VTSY_V2.zip ===
 
 
 # VTSY-Betong-Intl.-Airport
