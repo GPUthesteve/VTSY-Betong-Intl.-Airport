@@ -2,7 +2,9 @@
 
 Guys.. its F***ing done.
 
-[img]https://i.imgur.com/4OndUjN.png[/img]
+![2022-6-10_22-11-17-772](https://user-images.githubusercontent.com/89721316/173096190-ec73d13e-ffeb-43f1-881e-74fc25a38f45.png)
+
+
 
 # VTSY-Betong-Intl.-Airport for FSX/P3D
 Betong International Airport (Thai : ท่าอากาศยานนานาชาติเบตง) is the 29th airport of Departments of Airports and the 39th airport of Thailand. Serving Betong City, Yala. 
